@@ -1,0 +1,10 @@
+/out/
+/data/
+/demo-data/ф
+!/Library_DB_Java.iml
+*.class
+library.lock
+library.db
+library.db.bak
+library.db.tmp
+library.db.bak.tmp
