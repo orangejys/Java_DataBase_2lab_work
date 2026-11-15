@@ -1,6 +1,6 @@
 /out/
 /data/
-/demo-data/ф
+/demo-data/
 !/Library_DB_Java.iml
 *.class
 library.lock
